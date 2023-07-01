@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  width: 19vw;
+  height: 40vh;
+  flex-direction: column;
+  align-items: center;
+  margin: 2vh 0;
+}
+
+.cardImage {
+  background-color: #a5dad2;
+}

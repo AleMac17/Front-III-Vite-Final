@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  height: 5vh;
+  background-color: rgb(15, 64, 210);
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 6vh;
+}
+.navbar ul li a {
+  color: rgb(255, 255, 255);
+}
