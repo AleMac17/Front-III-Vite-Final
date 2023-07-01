@@ -1,5 +1,4 @@
 import Header from 'src/Components/Header/index'
-import styles from './layout.module.css'
 import Routes from 'src/Routes/Routes'
 import { Box } from '@mui/material'
 import ThemeProvider from 'src/context/themeContext'
