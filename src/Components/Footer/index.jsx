@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div className={styles.container}>
-        <p>Clinica La Muelita Cariada</p>
+        <p>Clinic "La Muelita Cariada"</p>
       </div>
     </footer>
   )

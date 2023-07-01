@@ -53,7 +53,7 @@ const Contact = () => {
     if (isFormValid) {
       setOpenModal(true)
     } else {
-      console.log('Formulario inválido')
+      console.log('Invalid Form')
     }
   }
 

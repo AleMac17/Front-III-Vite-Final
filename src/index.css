@@ -3,14 +3,6 @@
   line-height: 1.5;
   font-weight: 400;
 
-  --dark-blue: #1b264f;
-  --blue: #274690;
-  --light-blue: #576ca8;
-  --black: #302b27;
-  --white: #f5f3f5;
-
-  /*https://coolors.co/1b264f-274690-576ca8-302b27-f5f3f5*/
-
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
 
