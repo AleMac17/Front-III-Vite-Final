@@ -13,7 +13,7 @@ import { Typography } from '@mui/material'
 
 const Detail = () => {
   const history = useHistory()
-  let { id } = useParams()
+  const { id } = useParams()
   const [user, setUser] = useState([])
 
   const getUser = async () => {
